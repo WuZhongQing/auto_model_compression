@@ -1,2 +1,2 @@
-# auto_model_compression
+# Model Compression
 the repository is created to save the auto model compression
