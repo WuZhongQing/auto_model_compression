@@ -2,7 +2,7 @@
 the repository is created to save the auto model compression
 
 
-## [https://github.com/PaddlePaddle/PaddleSlim/tree/develop/example/auto_compression](百度paddle自动压缩模型压缩比)
+## [百度paddle自动压缩模型压缩比](https://github.com/PaddlePaddle/PaddleSlim/tree/develop/example/auto_compression)
 
 参考：
 ![image](https://github.com/WuZhongQing/model_compression/assets/48616900/a67aaac3-b0b3-444f-b01f-331486085457)
